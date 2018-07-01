@@ -12,7 +12,7 @@
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@mipmap/quiztime"
-        android:label="My Shot Quiz App"
+        android:label="My Short Quiz App"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:testOnly="true"
