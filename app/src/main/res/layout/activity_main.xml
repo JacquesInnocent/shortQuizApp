@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#31127A"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:textColor="#808000"
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1- Is Hydrogen gas or not?"
+
+        />
+    <RadioGroup
+        android:id="@+id/group1"
+        android:layout_below="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <RadioButton
+        android:textColor="#00FF00"
+        android:id="@+id/yesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:text="Yes"
+        />
+    <RadioButton
+        android:textColor="#00FF00"
+        android:id="@+id/noButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/yesButton"
+        android:text="No"
+        />
+
+    </RadioGroup>
+
+    <TextView
+        android:textColor="#808000"
+        android:id="@+id/quiz2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2- What is VPN in full?"
+        android:layout_below="@id/group1"
+        />
+    <RadioGroup
+        android:id="@+id/group2"
+        android:layout_below="@+id/quiz2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <RadioButton
+        android:textColor="#00FF00"
+        android:id="@+id/yesButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/quiz2"
+        android:text="Virtual Personal Network"
+        />
+    <RadioButton
+        android:textColor="#00FF00"
+        android:id="@+id/noButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/yesButton1"
+        android:text="Virtual Private Network"
+        />
+    </RadioGroup>
+
+    <TextView
+        android:textColor="#808000"
+        android:id="@+id/quiz3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="3- Any thing that has a life is a mammal"
+        android:layout_below="@id/group2"
+        />
+    <RadioGroup
+        android:id="@+id/group3"
+        android:layout_below="@+id/quiz3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <RadioButton
+        android:textColor="#00FF00"
+        android:id="@+id/yesButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/quiz3"
+        android:text="Yes"
+        />
+    <RadioButton
+        android:textColor="#00FF00"
+        android:id="@+id/noButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/yesButton3"
+        android:text="No"
+        />
+    </RadioGroup>
+    <TextView
+        android:textColor="#808000"
+        android:id="@+id/quiz4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4- What other 2 elements make up Hydrogen?"
+        android:layout_below="@id/group3"
+        />
+    <RadioGroup
+        android:id="@+id/group4"
+        android:layout_below="@+id/quiz4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <RadioButton
+        android:textColor="#00FF00"
+        android:id="@+id/yesButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/quiz4"
+        android:text="Oxygen and HydrogenOxide"
+        />
+    <RadioButton
+        android:textColor="#00FF00"
+        android:id="@+id/noButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/yesButton4"
+        android:text="Oxygen and Water"
+        />
+    </RadioGroup>
+    <TextView
+        android:textColor="#808000"
+        android:id="@+id/quiz5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5- Longest River in Africa is..."
+        android:layout_below="@id/group4"
+        />
+    <RadioGroup
+        android:id="@+id/group5"
+        android:layout_below="@+id/quiz5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <RadioButton
+        android:textColor="#00FF00"
+        android:id="@+id/yesButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/quiz5"
+        android:text="River LOngeride"
+        />
+    <RadioButton
+        android:textColor="#00FF00"
+        android:id="@+id/noButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/yesButton5"
+        android:text="River Nile"
+        />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/thanks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/group5"
+        android:layout_toEndOf="@+id/group1"
+        android:layout_toRightOf="@+id/group1"
+        android:onClick="thanks"
+        android:text="Thanks"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/noThanks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/group5"
+        android:layout_toEndOf="@+id/quiz3"
+        android:layout_toRightOf="@+id/quiz3"
+        android:onClick="noThanks"
+        android:text="Not cool"
+        android:textAllCaps="false" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="56dp"
+        android:layout_height="43dp"
+        android:layout_below="@+id/group5"
+        android:layout_toEndOf="@+id/textView2"
+        android:layout_toRightOf="@+id/textView2"
+        app:srcCompat="@drawable/quiztime" />
+
+
+</RelativeLayout>
