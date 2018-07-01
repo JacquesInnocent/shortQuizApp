@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3ed2d6f29cb58af19f957be5d1aa9f63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/roguex/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/db091bd37cd31bfcfe5980f0818734ed/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/140ca39705b06b4ad18532d9acf6b8c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/97ba7cd035ce26aa7e2073228d002154/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/20965a0ad526e9cd41c1e8833914c070/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/847797a29aef2e01af2dbb0c99844907/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71989ec882224557432120e3d0489484/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ad9a1b14bc87df51362b2e6461456132/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/84faa815b4d8b21f87c3689e1f671751/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/81c710715254f2ba44be952f244c7590/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/91261b4ef025d5e209aedcbb647224e8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5dc03b0c67d2db459fc53b150234f317/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/roguex/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/db091bd37cd31bfcfe5980f0818734ed/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/roguex/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/db091bd37cd31bfcfe5980f0818734ed/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:7:9-40
+	android:allowBackup
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.roguex.myclassquizes.MainActivity
+ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3ed2d6f29cb58af19f957be5d1aa9f63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3ed2d6f29cb58af19f957be5d1aa9f63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/roguex/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/db091bd37cd31bfcfe5980f0818734ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/roguex/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/db091bd37cd31bfcfe5980f0818734ed/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/140ca39705b06b4ad18532d9acf6b8c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/140ca39705b06b4ad18532d9acf6b8c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/97ba7cd035ce26aa7e2073228d002154/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/97ba7cd035ce26aa7e2073228d002154/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/20965a0ad526e9cd41c1e8833914c070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/20965a0ad526e9cd41c1e8833914c070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/847797a29aef2e01af2dbb0c99844907/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/847797a29aef2e01af2dbb0c99844907/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71989ec882224557432120e3d0489484/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71989ec882224557432120e3d0489484/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ad9a1b14bc87df51362b2e6461456132/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/roguex/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ad9a1b14bc87df51362b2e6461456132/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/84faa815b4d8b21f87c3689e1f671751/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/84faa815b4d8b21f87c3689e1f671751/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/81c710715254f2ba44be952f244c7590/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/81c710715254f2ba44be952f244c7590/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/91261b4ef025d5e209aedcbb647224e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/91261b4ef025d5e209aedcbb647224e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5dc03b0c67d2db459fc53b150234f317/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/roguex/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5dc03b0c67d2db459fc53b150234f317/AndroidManifest.xml:20:5-44
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+		ADDED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
+		INJECTED from /home/roguex/MyClassQuizes/app/src/main/AndroidManifest.xml
